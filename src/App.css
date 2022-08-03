@@ -1,0 +1,20 @@
+.Block{
+  width: 150px;
+  height: 150px;
+  border: 5px solid #000;
+  background-size: cover;
+  display: inline-block;
+}
+
+.mark1{
+  background-image: url(image/rec.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.mark2{
+  background-image: url(image/close.png);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
